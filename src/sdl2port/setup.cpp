@@ -26,7 +26,7 @@
 #include <stdlib.h>
 #include <sys/stat.h>
 #include <signal.h>
-#include <SDL.h>
+#include <SDL2/SDL.h>
 #ifdef __APPLE__
 #include <Carbon/Carbon.h>
 #include <OpenGL/gl.h>
